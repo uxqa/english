@@ -1,0 +1,25 @@
+.container {
+    width: 75%;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.wrap h2 {
+    text-align: center;
+}
+
+.wrap p {
+    text-align: center;
+}
+
+.video-en {
+    text-align: center;
+}
+
+.Vid button {
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 10px;
+    background-color: aqua;
+    margin-left: 1100px;
+}
